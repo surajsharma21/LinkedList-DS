@@ -68,6 +68,17 @@ namespace LinkedList_DS
                 }
             }
         }
+
+        public int Size()
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Delete(int v)
+        {
+            throw new NotImplementedException();
+        }
+
         public Node Pop()
         {
             if (head == null)
